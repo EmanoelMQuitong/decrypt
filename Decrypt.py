@@ -3,3 +3,5 @@
 import pyfiglet
 from colored import fg
 
+color = fg('yellow')
+
